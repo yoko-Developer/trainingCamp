@@ -8,3 +8,10 @@
 ### Gradleについての説明
 - Gradleとは
     - Gradleの説明
+  
+
+
+
+Visual Studio Codeでのプロジェクト作成方法
+Spring Iniitializr:Create a Gradle Projectを選択
+![](/imgs/createProject1.jpeg)
