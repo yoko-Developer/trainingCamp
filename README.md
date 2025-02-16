@@ -6,24 +6,17 @@
 - **調べる**とは：文章にまとめることである
 
 ### Gradleについての説明
-- Gradleとは
-    - Gradleの説明
-  
+### Gradleとは
+**ビルドツール**
+Javaのプログラムを作るときに、以下のような作業を簡単にしてくれるツールのこと
+  1. コンパイル：Javaコードを機械が読める形にする
+  2. テスト：プロブラムがちゃんと動くか確認する
+  3. 依存関係の管理：必要なライブラリやツールを自動で取ってきてくれる
+  4. アプリのパッケージ化：アプリをまとめて実行可能な形にする
 
-
+- 依存関係の管理
+- タスクを実行できる：コンパイル、テスト、アプリのパッケージ化（jarやwar）
 
 Visual Studio Codeでのプロジェクト作成方法
 Spring Iniitializr:Create a Gradle Projectを選択
 ![](/imgs/createProject1.jpeg)
-
-## gradle-project
-プロジェクト作成
-
-⌘+⇧+P: Java create Projectを選択
-![](/imgs/gradleProject1.jpeg)
-
-Groovy選択
-![](/imgs/gradleProject2.jpeg)
-
-project名を入力して作成
-![](/imgs/gradleProject3.jpeg)
