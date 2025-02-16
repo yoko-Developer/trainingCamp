@@ -15,3 +15,15 @@
 Visual Studio Codeでのプロジェクト作成方法
 Spring Iniitializr:Create a Gradle Projectを選択
 ![](/imgs/createProject1.jpeg)
+
+## gradle-project
+プロジェクト作成
+
+⌘+⇧+P: Java create Projectを選択
+![](/imgs/gradleProject1.jpeg)
+
+Groovy選択
+![](/imgs/gradleProject2.jpeg)
+
+project名を入力して作成
+![](/imgs/gradleProject3.jpeg)
